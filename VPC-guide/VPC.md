@@ -9,7 +9,7 @@
 - To connect your VPC to the internet, you can set up gateways or routers.
 - This act as an entry and exit points for traffic going in and out of your VPC.
 ---
-![VPC](/VPC.png)
+![VPC](/images/VPC.png)
 
 ---
 ## Common Components in VPC  
